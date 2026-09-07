@@ -52,20 +52,6 @@ This project provides a complete ordering workflow with customer and administrat
 
 ---
 
-## 📸 Screenshots
-
-### Customer Interface
-
-(Add screenshots here)
-
-
-### Admin Dashboard
-
-(Add screenshots here)
-
-
----
-
 ## ⚙️ Installation
 
 Clone repository:
